@@ -1,0 +1,107 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #FEEAD2;
+}
+
+h1{
+    background-color: #260A09;
+    border-radius: 310px;
+    color: #D45529;
+    }
+
+   h1:hover{
+   background-color: #D45529;
+   transition: 2s linear;
+   color:#260A09 ; 
+}
+
+.pictures{
+    border-radius: 100px;
+    }
+     
+h2{
+    background-color: #260A09;
+    border-radius: 310px;
+    color: #D45529;
+    }
+
+        
+h2:hover{
+   background-color: #D45529;
+   transition: 2s linear;
+   color:#260A09 ; 
+}
+ 
+ h2{
+    border: #260A09;
+ }
+
+
+  .Design{
+    background-color: #260A09;
+  }
+
+
+
+ .Design ,.image-container{
+    background-color: #260A09;
+    color: #D45529;
+    font-weight: bold;
+    border-radius: 15px;
+    
+}
+
+
+.Design2:hover{
+   background-color: #D45529;
+   transition: 2s linear;
+   color:#260A09 ; 
+}
+
+
+
+img-remove:hover{
+  display: none;
+}
+
+.Design:hover{
+   background-color: #D45529;
+   transition: 2s linear;
+   color:#260A09 ; 
+}
+
+.circuit{
+ border: 4px solid #D45529;
+  
+  border-radius: 15px;
+}
+
+
+img {
+    border-radius: 15px;
+}
+
+
+ a{
+    background-color: #260A09;
+  font-size: 26px;
+  margin: 30px;
+  color:#D45529 ; 
+  border: 3px solid #D45529;
+  border-radius: 19px;
+
+}
+
+a:hover{
+   background-color: #D45529;
+   transition: 3s linear;
+   border: 3px solid #260A09;
+   color:#260A09 ; 
+}
+
+
+
+.Design3{
+    background-color: #732c14;
+}
